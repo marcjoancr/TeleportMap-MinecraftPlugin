@@ -1,0 +1,14 @@
+## YAML Template.
+---
+name: TeleportMap
+version: alpha-1.2.0
+api-version: 1.14
+description: Shift + Right Click to a map in a mark to teleport there
+author: Twaia
+
+main: teleportmap.TeleportMap
+
+commands:
+  telepormap:
+    description: Info usage of the plugin
+    usage: /teleportmap
